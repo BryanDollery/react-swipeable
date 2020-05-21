@@ -1,6 +1,6 @@
 {
   "name": "@andreisergiu98/react-swipeable",
-  "version": "5.6.1",
+  "version": "5.6.2",
   "description": "React Swipe event handler component & hook",
   "main": "./lib/index.js",
   "module": "es/index.js",
@@ -51,12 +51,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormidableLabs/react-swipeable.git"
+    "url": "https://github.com/andreisergiu98/react-swipeable"
   },
-  "bugs": {
-    "url": "https://github.com/FormidableLabs/react-swipeable/issues"
-  },
-  "homepage": "https://github.com/FormidableLabs/react-swipeable",
+  "homepage": "https://github.com/andreisergiu98/react-swipeable",
   "files": [
     "lib",
     "es",
